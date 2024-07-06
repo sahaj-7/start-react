@@ -1,0 +1,22 @@
+{
+  "name": "react-start",
+  "version": "1.0.0",
+  "description": "This is description",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahaj-7/start-react.git"
+  },
+  "author": "Sahaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahaj-7/start-react/issues"
+  },
+  "homepage": "https://github.com/sahaj-7/start-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
